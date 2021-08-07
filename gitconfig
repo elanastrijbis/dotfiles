@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = ehgestrijbis@gmail.com
+	name = Elana Strijbis
